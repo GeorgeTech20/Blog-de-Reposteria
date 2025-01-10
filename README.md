@@ -1,4 +1,4 @@
-# Blog de Postres 🍰 - Recetas Deliciosas
+# Blog dee Postres 🍰 - Recetas Deliciosas
 
 Este es un proyecto de un blog dedicado a los amantes de los postres, donde encontrarás recetas fáciles, deliciosas y visualmente atractivas. El blog está construido con **Next.js** y utiliza buenas prácticas para garantizar una experiencia fluida y rápida.
 
